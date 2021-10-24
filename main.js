@@ -1,6 +1,6 @@
 const Links = {
   github: 'henriqueprogramador2',
-  linkedin: 'henriquesilva',
+  linkedin: '/in/henriquesilva',
   facebook: 'henrique.augusto',
   tiktok: '@henriqueaugusto294',
   instagram: 'rick_style2015',
